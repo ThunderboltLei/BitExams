@@ -1,0 +1,181 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+<meta name="robots" content="noindex,follow">
+<meta http-equiv=Content-Type content="text/html; charset=gb2312">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 11">
+<meta name=Originator content="Microsoft Word 11">
+<title>51Ch2习题参考答案</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>三亿文库</o:Author>
+  <o:LastAuthor>三亿文库</o:LastAuthor>
+  <o:Revision>1</o:Revision>
+  <o:TotalTime>3</o:TotalTime>
+  <o:Created>2011-07-03T05:27:00Z</o:Created>
+  <o:LastSaved>2017/5/16 22:26:32Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>9</o:Words>
+  <o:Company>http://3y.uu456.com</o:Company>
+  <o:Paragraphs>1</o:Paragraphs>
+  <o:Version>11.9999</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Print</w:View>
+  <w:PunctuationKerning/>
+  <w:DrawingGridVerticalSpacing>7.8 磅</w:DrawingGridVerticalSpacing>
+  <w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery>
+  <w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:Compatibility>
+   <w:SpaceForUL/>
+   <w:BalanceSingleByteDoubleByteWidth/>
+   <w:DoNotLeaveBackslashAlone/>
+   <w:ULTrailSpace/>
+   <w:DoNotExpandShiftReturn/>
+   <w:AdjustLineHeightInTable/>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:UseFELayout/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" LatentStyleCount="156">
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:宋体;
+	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-alt:SimSun;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:3 135135232 16 0 262145 0;}
+@font-face
+	{font-family:宋体;
+	panose-1:2 1 6 9 3 1 1 1 1 1;
+	mso-font-charset:134;
+	mso-generic-font-family:modern;
+	mso-font-pitch:fixed;
+	mso-font-signature:1 135135232 16 0 262144 0;}
+@font-face
+	{font-family:"\@宋体";
+	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:3 135135232 16 0 262145 0;}
+@font-face
+	{font-family:"\@仿宋_GB2312";
+	panose-1:2 1 6 9 3 1 1 1 1 1;
+	mso-font-charset:134;
+	mso-generic-font-family:modern;
+	mso-font-pitch:fixed;
+	mso-font-signature:1 135135232 16 0 262144 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	mso-pagination:none;
+	font-size:13.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:宋体;
+	mso-font-kerning:1.0pt;}
+h1
+	{mso-style-next:正文;
+	margin-top:17.0pt;
+	margin-right:0cm;
+	margin-bottom:16.5pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	line-height:140%;
+	mso-pagination:lines-together;
+	page-break-after:avoid;
+	mso-outline-level:1;
+	font-size:18.0pt;
+	font-family:"Times New Roman";
+	mso-font-kerning:18.0pt;}
+ /* Page Definitions */
+ @page
+	{mso-page-border-surround-header:no;
+	mso-page-border-surround-footer:no;}
+@page Section1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 90.0pt 72.0pt 90.0pt;
+	mso-header-margin:42.55pt;
+	mso-footer-margin:49.6pt;
+	mso-paper-source:0;
+	layout-grid:15.6pt;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:普通表格;
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+<body lang=ZH-CN style='tab-interval:21.0pt;text-justify-trim:punctuation'>
+<div class=Section1 style='layout-grid:14pt'>
+
+
+<p class=MsoNormal align=left style='text-align:left;line-height:150%;margin-top:3.6pt;'><span lang=EN-US style='font-size:9.0pt;line-height:150%'><a href="http://3y.uu456.com/ss_01h01d01v02w01efhcu54gjmpabod0klk_1.html"><span lang=EN-US style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";text-decoration:none;text-underline:none'><span lang=EN-US>点这里，有很多篇《51Ch2习题参考答案》</span></span></a><o:p></o:p></span></p>
+
+<p class=MsoNormal align=left style='text-align:left'><span style='font-size:12.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";color:#993300'>在线阅读本文：</span><span lang=EN-US style='font-size:12.0pt;color:#999999'><a href="http://3y.uu456.com/bp_3mr1v0855j3blzb1bt2n_2.html"><span
+style='text-decoration:none;text-underline:none'>http://3y.uu456.com/bp_3mr1v0855j3blzb1bt2n_2.html</span></a><o:p></o:p></span></p>
+
+<h1 align=center style='text-align:center'><span style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>51Ch2习题参考答案</span></h1>
+
+
+<div class=MsoNormal style='margin-top:7.8pt;margin-right:0cm;margin-bottom:7.8pt;
+margin-left:0cm;mso-para-margin-top:.5gd;mso-para-margin-right:0cm;mso-para-margin-bottom:
+.5gd;mso-para-margin-left:0cm;text-indent:2em;mso-char-indent-count:2.0;
+line-height:20pt;mso-line-height-rule:exactly;font-family:宋体;
+mso-hansi-font-family:宋体;'><p>16.循环链表的主要优点是(D)；(A)不再需要头指针了；(B)已知某个结点的位置后，能够容易找到他的直接；(C)在进行插入、删除运算时，能更好的保证链表不；(D)从表中的任意结点出发都能扫描到整个链表；17.下面关于线性表的叙述错误的是(B)；(A)线性表采用顺序存储，必须占用一片地址连续的；(B)线性表采用顺序存储，便于进行插入和删除操作；(C)线性表采</p>                                                <p>16. 循环链表的主要优点是( D ) 。</p>                                                                <p>(A)不再需要头指针了</p>                                                                <p>(B)已知某个结点的位置后，能够容易找到他的直接前趋</p>                                                                <p>(C)在进行插入、删除运算时，能更好的保证链表不断开</p>                                                                <p>(D)从表中的任意结点出发都能扫描到整个链表</p>                                                                <p>17. 下面关于线性表的叙述错误的是( B )。</p>                                                                <p>(A) 线性表采用顺序存储，必须占用一片地址连续的单元；</p>                                                                <p>(B) 线性表采用顺序存储，便于进行插入和删除操作；</p>                                                                <p>(C) 线性表采用链式存储，不必占用一片地址连续的单元；</p>                                                                <p>(D) 线性表采用链式存储，便于进行插入和删除操作；</p>                                                                <p>18. 单链表中，增加一个头结点的目的是为了（C ）。</p>                                                                <p>(A) 使单链表至少有一个结点   (B)标识表结点中首结点的位置</p>                                                                <p>（C）方便运算的实现           (D) 说明单链表是线性表的链式存储</p>                                                                <p>19. 若某线性表中最常用的操作是在最后一个元素之后插入一个元素和删除第一个元素，则采用（D ）存储方式最节省运算时间。</p>                                                                <p>(A) 单链表    (B) 仅有头指针的单循环链表</p>                                                                <p>(C) 双链表    (D) 仅有尾指针的单循环链表</p>                                                                <p>20. 若某线性表中最常用的操作是取第i个元素和找第i个元素的前趋元素，则采用（ ）存储方式最节省运算时间（B ）。</p>                                                                <p>(A) 单链表    (B) 顺序表</p>                                                                <p>(C) 双链表    (D) 单循环链表</p>                                                                <p>21. 一个向量(一种顺序表)第一个元素的存储地址是100，每个元素的长度为2，则第5个元素的地址是_______。</p>                                                                <p>A. 110                               B. 108</p>                                                                <p>C. 100                               D. 120</p>                                                                <p>答：B</p>                                                                <p>[第5个元素的地址=100+2*(5-1)=108]</p>                                                                <p>22. 不带头结点的单链表head为空的判定条件是______。</p>                                                                <p>A. head = = NULL;          B. head-&gt;next = = NULL;</p>                                                                <p>C. head-&gt;next = = head;       D. head! = NULL;</p>                                                                <p>答：A</p>                                                                <p>23. 带头结点的单链表head为空的判定条件是______。</p>                                                                <p>A. head = = NULL;           B. head-&gt;next = = NULL;</p>                                                                <p>C. head-&gt;next = = head;       D. head! = NULL;</p>                                                                <p>答：B</p>                                                                <p>24. 在循环双链表的p所指结点之后插入s所指结点的操作是_____。</p>                                                                <p>A.  p-&gt;right=s; s-&gt;left=p; p-&gt;right-&gt;left=s; s=-&gt;right=p-&gt;right;</p>                                                                <p>B.  p-&gt;right=s; p-&gt;right-&gt;left=s; s-&gt;left=p; s-&gt;right=p-&gt;right;</p>                                                                <p>C.  s-&gt;left=p; s-&gt;right= p-&gt;right; p-&gt;right=s; p-&gt;right-&gt;left=s;</p>                                                                <p>D.  s-&gt;left=p; s-&gt;right=p-&gt;right; p-&gt;right-&gt;left=s; p-&gt;right=s;</p>                                                                <p>答：D</p>                                                                <p>25. 在一个单链表中，已知q所指结点是p所指结点的前驱结点，若在q和p之间插入s结点，则执行______。</p>                                                                <p>A. s-&gt;next=p-&gt;next; p-&gt;next=s;        B. p-&gt;next=s-&gt;next; s-&gt;next=p;</p>                                                                                                                        <p>C. q-&gt;next=s; s-&gt;next=p;             D. p-&gt;next=s; s-&gt;next=q;</p>                                                                <p>答：C</p>                                                                <p>26. 从一个具有n个结点的单链表中查找其值等于x结点时，在查找成功的情况下，需平均比较_____个结点。(参见网上讲义：1.4.2例1_5)</p>                                                                <p>A. n;                              B. n/2;</p>                                                                <p>C. (n-1)/2;                         D. (n+1)/2;</p>                                                                <p>答：D</p>                                                                <p>27. 给定有n个结点的向量，建立一个有序单链表的时间复杂度_______。</p>                                                                <p>A. O(1);                            B. O(n);</p>                                                                <p>C. O(n2);                           D. O(nlog2n);</p>                                                                <p>答：C</p>                                                                <p>三、 填空题</p>                                                                <p>28. 在一个长度为n的向量中的第i个元素(1≤i≤n)之前插入一个元素时，需向后移动_____个元素。</p>                                                                <p>答：n-i+1</p>                                                                <p>29. 在一个长度为n的向量中删除第i个元素(1≤i≤n)时，需向前移动_____个元素。</p>                                                                <p>答：n-i</p>                                                                <p>30．在一个单链表中p所指结点之前插入一个由指针s所指结点，可执行以下操作：</p>                                                                <p>s-&gt;next=__p-&gt;next_____;</p>                                                                <p>p-&gt;next=s;</p>                                                                <p>t=p-&gt;data;</p>                                                                <p>p-&gt;data=___s-&gt;data________;</p>                                                                <p>s-&gt;data=___t________;</p>                                                                <p>四、算法设计题：</p>                                                                <p>31. 有一个单链表（不同结点的数据域值可能相同），其头指针为head，编写一个函数计算数据域为x的结点个数。</p>                                                                <p>解：本题是遍历通过该链表的每个结点，每遇到一个结点，结点个数加1，结点个数存储在变量n中。实现本题功能的函数如下：</p>                                                                <p>int count (head, x)</p>                                                                <p>node *head;</p>                                                                <p>ElemType x;</p>                                                                <p>{</p>                                                                <p>/*本题中head 为链头指针，不含头结点*/</p>                                                                <p>node *p;</p>                                                                <p>int n=0;</p>                                                                <p>p=head;</p>                                                                <p>while (p!=NULL)</p>                                                                <p>{</p>                                                                <p>if  (p-&gt;data= =x) n++;</p>                                                                                                                        <p>p=p-&gt;next;</p>                                                                <p>}</p>                                                                <p>return(n);</p>                                                                <p>}</p>                                                                <p> </p>                                                                <p>32. 有一个有序单链表（从小到大排序），表头指针为head，编写一个函数向该单链表中插入一个元素为x的结点，使插入后该链表仍然有序。</p>                                                                <p>解：本题算法的思想是先建立一个待插入的结点，然后依次与链表中的各结点的数据域比较大小，找出该结点的位置，最后插入该结点。实现本题功能的函数如下：</p>                                                                <p>node *insertorder(head, x)</p>                                                                <p>node *head;</p>                                                                <p>ElemType x;</p>                                                                <p>{</p>                                                                <p>/*本题中head 为链头指针，不含头结点*/</p>                                                                <p>node *s, *p, *q;</p>                                                                <p>s=(node *)malloc(sizeof(node));    /* 建立一个待插入的结点*/</p>                                                                <p>s-&gt;data=x;</p>                                                                <p>s-&gt;next=NULL;</p>                                                                <p>if (head= =NULL ‖ x&lt;head-&gt;data)  /* 若单链表为空或x小于第一个结点的data域*/</p>                                                                <p>{</p>                                                                <p>s-&gt;next=head;  /* 则把s结点插入到表头后面*/</p>                                                                <p>head=s;</p>                                                                <p>}</p>                                                                <p>else</p>                                                                <p>{</p>                                                                <p>q=head;</p>                                                                <p>/*为s结点寻找插入位置,p指向待比较的结点,q指向p的前驱结点*/</p>                                                                <p>p=q-&gt;next;</p>                                                                <p>while (p!=NULL &amp;&amp; x&gt;p-&gt;data)  /* 若x小于p所指向的data域值*/         if (x &gt; p-&gt;data)</p>                                                                <p>{</p>                                                                <p>q=p;</p>                                                                <p>p=p-&gt;next;</p>                                                                <p>}</p>                                                                <p>s-&gt;next = p;   /* 将s结点插入到q和p之间*/</p>                                                                <p>q-&gt;next=s;</p>                                                                <p>}</p>                                                                <p>return(head);</p>                                                                <p>}</p>                                                                <p> </p>                                                                <p>33． 编写一个函数将一个头指针为a的单链表A分解成两个单链表A和B，其头指针分别为a和b，使得A链表中含有原链表A中序号为奇数的元素，而B</p>                                                                                                                        <p>链表中含有原链表A中序号为偶数的元素，且保持原来的相对顺序。</p>                                                                <p>解：其函数是将单链表A中的所有偶数序号的结点删除，并在删除时把这些结点链接起来构成单链表B。实现本题功能的函数如下：</p>                                                                <p>void disa(a, b)</p>                                                                <p>node *a, *b;</p>                                                                <p>{</p>                                                                <p>/*本题中a、b为链头指针，不含头结点*/</p>                                                                <p>node *r, *p, *q;</p>                                                                <p>p=a;</p>                                                                <p>b=a-&gt;next;</p>                                                                <p>r=b;</p>                                                                <p>while (p!=NULL &amp;&amp; p-&gt;next!=NULL)</p>                                                                <p>{</p>                                                                <p>q = p-&gt;next;      /* q指向偶数序号的结点*/</p>                                                                <p>p-&gt;next=q-&gt;next;  /* 将q从原A中删除掉*/</p>                                                                <p>r-&gt;next=q;        /* 将q结点链接到B链表的末尾*/</p>                                                                <p>r=q              /* r总是指向B链表的最后一个结点*/</p>                                                                <p>p=p-&gt;next;        /*p指向原链表A中的奇数序号的结点*/</p>                                                                <p>}</p>                                                                <p>r-&gt;next=NULL;   /* 将生成B链表中的最后一个结点的next域置空*/ }</p>                                                                <p> </p>                                                                <p>34. 假设有两个已排序的单链表A和B，编写一个函数将它们合并成一个链表C而不改变其排序性。</p>                                                                <p>解：这里采用链表合并的方法，设原两链表的头指针分别为p和q，每次比较p-&gt;data和q-&gt;data的值，把值较小的结点作为新链表的结点，这一过程直到一个链表为空为止。当一个链表为空而另一个链表不为空时，只要将不空的链表指针赋给新链表中最后一个结点的指针即可。实现本题功能的函数如下：</p>                                                                <p> </p>                                                                <p>node *mergelink(p, q)</p>                                                                <p>node *p, *q;</p>                                                                <p>{</p>                                                                <p>/*本题中p、q为链头指针，不含头结点。*/</p>                                                                <p>/*但为操作方便，过程中要为链表C建立一个临时头结点。*/</p>                                                                <p>node *h, *r;</p>                                                                <p>h=(node *)malloc(sizeof(node));  /* 建立头结点*/</p>                                                                <p>h-&gt;next=NULL;</p>                                                                <p>r=h;</p>                                                                <p>while (p!=NULL &amp;&amp; q!=NULL)</p>                                                                <p>if (p-&gt;data&lt;=q-&gt;data)</p>                                                                <p>{</p>                                                                <p>r-&gt;next=p;</p>                                                                <p>r=p;</p>                                                                <p>p=p-&gt;next;</p>                                                                                                                        <p>}</p>                                                                <p>else</p>                                                                <p>{</p>                                                                <p>r-&gt;next=q;</p>                                                                <p>r=q;</p>                                                                <p>q=q-&gt;next;</p>                                                                <p>}</p>                                                                <p>if (p= =NULL)</p>                                                                <p>/* 若A链表的结点已取完，则把B的所有余下的结点链接C中*/      r-&gt;next=q;</p>                                                                <p>if (q= =NULL)</p>                                                                <p>/*若A链表的结点已取完，则把B的所有余下的结点链接C中*/      r-&gt;next=p;</p>                                                                <p>/*下面三句要去掉链表C的头结点，如果不想去掉，则不要这三句*/</p>                                                                <p>p=h-&gt;next;</p>                                                                <p>h=h-&gt;next;</p>                                                                <p>free(p);</p>                                                                <p>return h;</p>                                                                <p>}</p>                                                                <p> </p>                                                                <p>35．设A=（a1,…,am）和B=（b1,…,bn）均为顺序表，A’和B’分别为A和B中</p>                                                                <p>除去最大共同前缀后的子表（例如，A=（x，y，y，z，x，z），B=（x，y，y，z，y，x，x，z），则两者中最大的共同前缀为（x,y,y,z），在A’=B’=空表，则A=B；若A’=空表，而B’&lt;&gt;空表，或者两者均不为空表，且A’的首元小于B’的首元，则A&lt;B；否则A&gt;B。（词典次序）试写一个比较A，B大小的算法（在算法中，不要破坏原表A和B，并且不一定先求得A’和B’才进行比较）。</p>                                                                <p> </p>                                                                <p>36. 设有一个用向量表示的线性表L，要求写出一个将该表逆置的过程，并允许在原表的存储空间外再增加一个附加的工作单元。(朱儒荣, C语言版数据结构考研例题)</p>                                                                <p>解：用数据类型描述Seqlist顺序存储结构：</p>                                                                <p>vold converts(seqlist L)</p>                                                                <p>{ k=L.length;</p>                                                                <p>m = k/2;</p>                                                                <p>for(i = 0;i&lt;m;i++) {</p>                                                                <p>x = L.element[i];</p>                                                                <p>L.element[i] = L.element[k-i-1];</p>                                                                <p>L.element[k-i-1] = x;</p>                                                                <p>}</p>                                                                <p>} // converts</p>                                                                <p>讨论：这个算法过程只须进行数据元素的交换操作，其主要时间花费在for循环上，整个算法的时间复杂度为O(k)。</p>                                                                        <p>三亿文库包含各类专业文献、专业论文、中学教育、应用写作文书、外语学习资料、幼儿教育、小学教育、高等教育、文学作品欣赏等内容。</p></div>
+
+<p class=MsoFooter align=center style='text-align:center'><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";color:#993300'>三亿文库</span><span lang=EN-US><a
+href="http://3y.uu456.com/">http://3y.uu456.com/</a></span></p>
+
+<p class=MsoFooter align=center style='text-align:center'><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";color:#993300'>上亿文档资料，等你来发现</span><span lang=EN-US style='font-size:16.0pt;mso-bidi-font-size:10.0pt;color:#993300'><o:p></o:p></span></p>
+</div>
+</body></html>
